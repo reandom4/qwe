@@ -1,0 +1,24 @@
+.item{
+    border: 1px solid;
+    margin-bottom: 20px;
+}
+.image
+{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: auto;
+    height: 400px;
+}
+
+.info{
+    padding: 10px;
+}
+
+.info h2{
+    margin-bottom: 5px;
+}
+
+.info p{
+    margin-bottom: 10px;
+}
